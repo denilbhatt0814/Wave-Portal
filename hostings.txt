@@ -1,0 +1,5 @@
+0x6e26816B51376229Dd42C9cb0812BeD3e4068418 - waveContrat (Rinkeby)
+0x49A15a4A7670aF1D544145BB8C954b3D44701dbc - 6 waves w/ ability to send msg
+0x62ee788f8fa4f439906321DcA9BA4eda7eB89Efe - ability to reward 
+0x77B609ae408498784d8ab389cDc5A642c3f47fE4 - ability to reward with spam protection
+0x911c2D38B982D28F920D9C3357776553e13FBd53 - Final Product address (same as above)
