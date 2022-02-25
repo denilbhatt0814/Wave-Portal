@@ -1,15 +1,3 @@
-# Basic Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+# Wave Portal
+This is a simple web3 / dApp built with guidance from [BuildSpace](https://app.buildspace.so/home) and at last I've added some of my own implementtions to it including the UI.\
+The smart contract of this dApp is deployed on Rinkeby test network. [click here to check](https://rinkeby.etherscan.io/address/0x911c2D38B982D28F920D9C3357776553e13FBd53)
